@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	border-color:palevioletred;
+	border-style: double;
+	border-width: 10px;
+}
+#head{
+	color:palevioletred;
+	font-family: monospace;
+	font-weight: bold;
+}
